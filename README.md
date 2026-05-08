@@ -12,6 +12,10 @@ Kashyap, D., Gupta, D., Mehta, N. K., & Raghava, G. P. S. (2025).
 **TumorHoPe2: An updated database for Tumor Homing Peptides.** *Preprint/Manuscript.* [https://doi.org/10.48550/arXiv.2505.20913](https://doi.org/10.48550/arXiv.2505.20913)
 
 
+The dataset can be also found on Zenodo (**https://doi.org/10.5281/zenodo.20072410**)
+
+
+
 
 ## About the Database
 
